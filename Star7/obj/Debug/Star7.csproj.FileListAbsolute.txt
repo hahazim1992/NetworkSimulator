@@ -1,0 +1,89 @@
+C:\Users\Owner\Desktop\Sem 8 MSU\FYP2\NRSFSNform\Star7\bin\Debug\Star7.exe.config
+C:\Users\Owner\Desktop\Sem 8 MSU\FYP2\NRSFSNform\Star7\bin\Debug\Star7.exe
+C:\Users\Owner\Desktop\Sem 8 MSU\FYP2\NRSFSNform\Star7\bin\Debug\Star7.pdb
+C:\Users\Owner\Desktop\Sem 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Sem 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Properties.Resources.resources
+C:\Users\Owner\Desktop\Sem 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\Sem 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.exe
+C:\Users\Owner\Desktop\Sem 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.pdb
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Home.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Landing.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.MyAccount.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Register.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Star7.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Star6.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Star5.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Star4.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Ring7.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Ring6.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Ring5.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Ring4.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Ring3.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Bus7.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Bus6.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Bus5.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Bus4.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Bus3.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\FYP2\NRSFSNform\Star7\obj\Debug\Star7.Bus2.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\NRSFSNform\Star7\bin\Debug\Star7.exe.config
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\NRSFSNform\Star7\obj\Debug\Star7.exe
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\NRSFSNform\Star7\obj\Debug\Star7.pdb
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\bin\Debug\Star7.exe.config
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.exe
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.pdb
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\bin\Debug\Star7.exe
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\bin\Debug\Star7.pdb
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Ring4.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Ring3.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Ring6.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Ring5.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Bus7.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Star4.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Star6.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Star5.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Ring7.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Star7.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Home.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Landing.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.MyAccount.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Properties.Resources.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Register.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.SimNew.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\bin\Debug\Control.Draggable.dll
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\New Style\NRSFSNformNew\Star7\obj\Debug\Star7.Ring7backup.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\bin\Debug\Star7.exe.config
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.exe
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.pdb
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\bin\Debug\Star7.exe
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\bin\Debug\Star7.pdb
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\bin\Debug\Control.Draggable.dll
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Bus7.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Ring7.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.SimNew.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Star7.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Home.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Landing.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.MyAccount.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Properties.Resources.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Register.resources
+C:\Users\Owner\Desktop\SEM 8 MSU\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.csproj.GenerateResource.Cache
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\bin\Debug\Star7.exe.config
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.exe
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.pdb
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\bin\Debug\Star7.exe
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\bin\Debug\Star7.pdb
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\bin\Debug\Control.Draggable.dll
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.csprojResolveAssemblyReference.cache
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Bus7.resources
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Ring7.resources
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.SimNew.resources
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Star7.resources
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Home.resources
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Landing.resources
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.MyAccount.resources
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Properties.Resources.resources
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.Register.resources
+D:\SEMESTERS\MSU Degree SEMESTER 8\1 FYP2\Latest Style\NRSFSNformNew\Star7\obj\Debug\Star7.csproj.GenerateResource.Cache
